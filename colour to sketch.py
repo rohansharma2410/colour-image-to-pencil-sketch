@@ -1,5 +1,5 @@
 import cv2
-image = cv2.imread("C:/Users/Rohan Sharma/Downloads/download.jfif")
+image = cv2.imread("C:/Users/user/Downloads/download.jfif")
 
 gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
